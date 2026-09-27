@@ -1,5 +1,5 @@
 # Hi, I'm Aubrey! 👋🏽👾
-
+[BIO WIP]
 <!--
 **ASylvi02/ASylvi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
